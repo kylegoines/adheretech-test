@@ -9,17 +9,17 @@ import "./main.scss";
     this deck should have the following methods
 
         - .shuffle()
-            shuffle the deck (sounds like a fun algorithm, but instead show us your npm skills
-            and import a module to help you for this method)
+            return a shuffled version the deck (sounds like a fun algorithm, but instead show us your npm skills
+            and import a module to help you for this method) 
 
         - .getAllOf( suit )
-            reaveal cards of a chosen suit
+            return the cards of a chosen suit
 
         - .deal( numberOfCards )
-            deal us a card, calling this multiple times should deal us the next card
+            return us a number of cards from the deck, calling this multiple times should deal us the next card
             
         - .compare()
-            compare the top two cards and alert which has a higher value
+            deal() the top two cards and return the higher value
 
         tips, extra credit:
         - using the deck class, how would i go about dynamically adding new suits to the deck

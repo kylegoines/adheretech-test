@@ -3,8 +3,6 @@
 Hi there, welcome to Adheretech. We want to test your skills in CSS with a small layout example as well as a javascript based test.
 Both of these have practical concepts that we make use of every day.
 
-It's you're choice which to start on, but do at least try both. We don't expect you to finish both completely but try you best!
-
 <br>
 
 ## Getting Started
