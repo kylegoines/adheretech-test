@@ -1,0 +1,41 @@
+// here's some base styles to get you started, hack at them as much as you want!!
+* {
+    box-sizing: border-box;
+}
+
+.siteWrapper > * {    
+    max-width: 1000px;;
+    margin: 0 auto;
+}
+
+header {
+    height: 80px;
+    border: 1px solid black;;
+    background: #b2b2b2;
+}
+
+
+.pageContent {
+    width: 100%;
+}
+
+main {
+    width: 100%;
+    background: #d0d0d0;
+    border: 1px solid black;
+}
+
+aside {
+    border: 1px solid black;
+    background: #eeeeee;
+}
+
+footer {
+    height: 80px;   
+    border: 1px solid black;
+    background: #b2b2b2;
+}
+
+
+// you're styles can go here!, feel free to write scss imports 
+// or whatever you're most comfortable in
