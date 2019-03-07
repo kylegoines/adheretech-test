@@ -20,10 +20,6 @@ import "./main.scss";
             
         - .compare()
             deal() the top two cards and return the higher value
-
-        extra credit:
-        - using the deck class, how would i go about dynamically adding new suits to the deck
-        - what if i want aces to be high value, or aces to be low value?
 */
 
 // something to get you started:
